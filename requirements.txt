@@ -1,0 +1,8 @@
+face_recognition
+opencv-python
+numpy
+Pillow
+dlib
+
+You can install all dependencies with:
+pip install -r requirements.txt
