@@ -7,6 +7,17 @@ This is a desktop-based face recognition system built using Python, Tkinter, and
 - Automatic attendance logging in CSV
 - Simple GUI built with Tkinter
 
+# Structure 
+FaceRecognitionProject/
+├── main.py
+├── training_images/
+│   ├── samarth.jpg
+│   └── (others)
+├── attendance.csv
+├── face_recognition.py (if using as module)
+├── README.md
+└── requirements.txt
+
 # Installation
 1. Clone the repository
 2. Install dependencies:
